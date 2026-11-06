@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Keep vendor firmware payloads byte for byte, including text-formatted .bin files.
+*.bin binary
+*.msc binary
+*.mdt binary
+*.b[0-9][0-9] binary

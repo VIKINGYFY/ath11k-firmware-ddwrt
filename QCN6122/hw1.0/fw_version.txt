@@ -1,1 +1,4 @@
 WLAN.HK.2.7.0.1-01744-QCAHKSWPL_SILICONZ-1
+
+M3-only payload. Version retained from existing metadata; the M3 image
+does not contain an independently identifiable QC_IMAGE_VERSION_STRING.

@@ -3,6 +3,13 @@
 
 https://github.com/mirror/dd-wrt/tree/master/src/router/firmwares/wireless/ath11k
 
+## 固件同步（2026-11-25）
+
+IPQ9574 和 QCN9074 更新至 `WLAN.HK.2.15.0.1-00562-QCAHKSWPL_SILICONZ-1 v1`。
+IPQ9574 Q6 分段和 QCN9074 AMSS 来自 DD-WRT `6666cfb3dd4b`，QCN9074
+的版本文本来自 `69078c8dd9f6`。两套目录与 DD-WRT `master` 快照
+`b56c95257e5e` 一致。
+
 ## 固件同步（2026-11-07）
 
 DD-WRT 固定来源：[c5b9d5d25e10](https://github.com/mirror/dd-wrt/tree/c5b9d5d25e10c170419729b19b2e1a79d58871d4/src/router/firmwares/wireless/ath11k)。
